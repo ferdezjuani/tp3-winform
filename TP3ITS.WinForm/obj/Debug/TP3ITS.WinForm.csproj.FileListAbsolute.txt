@@ -1,0 +1,10 @@
+C:\Users\Juani\source\repos\TP3ITS.WinForm\TP3ITS.WinForm\bin\Debug\TP3ITS.WinForm.exe.config
+C:\Users\Juani\source\repos\TP3ITS.WinForm\TP3ITS.WinForm\bin\Debug\TP3ITS.WinForm.exe
+C:\Users\Juani\source\repos\TP3ITS.WinForm\TP3ITS.WinForm\bin\Debug\TP3ITS.WinForm.pdb
+C:\Users\Juani\source\repos\TP3ITS.WinForm\TP3ITS.WinForm\obj\Debug\TP3ITS.WinForm.csproj.AssemblyReference.cache
+C:\Users\Juani\source\repos\TP3ITS.WinForm\TP3ITS.WinForm\obj\Debug\TP3ITS.WinForm.Form1.resources
+C:\Users\Juani\source\repos\TP3ITS.WinForm\TP3ITS.WinForm\obj\Debug\TP3ITS.WinForm.Properties.Resources.resources
+C:\Users\Juani\source\repos\TP3ITS.WinForm\TP3ITS.WinForm\obj\Debug\TP3ITS.WinForm.csproj.GenerateResource.cache
+C:\Users\Juani\source\repos\TP3ITS.WinForm\TP3ITS.WinForm\obj\Debug\TP3ITS.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Juani\source\repos\TP3ITS.WinForm\TP3ITS.WinForm\obj\Debug\TP3ITS.WinForm.exe
+C:\Users\Juani\source\repos\TP3ITS.WinForm\TP3ITS.WinForm\obj\Debug\TP3ITS.WinForm.pdb
